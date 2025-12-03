@@ -5,7 +5,7 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ConsoleApp1.MethodsLesson</StartupObject>
+    <StartupObject>ConsoleApp1.Inheritance.InterfaceLesson</StartupObject>
   </PropertyGroup>
 
 </Project>
